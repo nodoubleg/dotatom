@@ -1,2 +1,5 @@
+.DS_Store
 storage/*
-compile-cache
+compile-cache/*
+*.cache.json
+blob-store
