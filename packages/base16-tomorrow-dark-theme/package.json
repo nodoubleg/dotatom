@@ -1,8 +1,13 @@
 {
   "name": "base16-tomorrow-dark-theme",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "description": "Base16 dark theme for Atom",
+  "keywords": [
+    "base16",
+    "dark",
+    "syntax"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/atom/base16-tomorrow-dark-theme.git"
@@ -17,10 +22,10 @@
     "url": "https://github.com/atom/base16-tomorrow-dark-theme/issues"
   },
   "homepage": "https://github.com/atom/base16-tomorrow-dark-theme#readme",
-  "_id": "base16-tomorrow-dark-theme@1.0.0",
-  "_shasum": "36748e399aa54d010cc70900107a9a1460d9d8b4",
-  "_resolved": "file:../d-11595-30014-1vmhuqh/package.tgz",
-  "_from": "../d-11595-30014-1vmhuqh/package.tgz",
+  "_id": "base16-tomorrow-dark-theme@1.5.0",
+  "_shasum": "7779dfd90eb8efd40243e31e6c07feb09e08256a",
+  "_resolved": "file:../d-117128-44092-19n3i51/package.tgz",
+  "_from": "../d-117128-44092-19n3i51/package.tgz",
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [],
